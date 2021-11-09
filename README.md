@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <div align="center" style="text-align:center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okok0415&show_icons=true&theme=dark)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okok0415&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
