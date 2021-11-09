@@ -46,13 +46,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
+  <br/>
 </p> 
-
-
-
 
 <div align="center" style="text-align:center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okok0415&show_icons=true&theme=dark)
 
 </div>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fokok0415&count_bg=%23A4A4A4&title_bg=%23867E83&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
