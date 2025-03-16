@@ -9,12 +9,13 @@
     <h2>Skills </h2>
     <ul class="tech-list">
         <li>JavaScript, TypeScript</li>
+        <li>React.js</li>
         <li>Django</li>
         <li>Node.js</li>
     </ul>
     <h3>CJ ONS</h3>
     <ul class="tech-list">
-        <li>JavaScript</li>
+        <li>JavaScript(jQuery)</li>
         <li>ASP.NET (Web Form)</li>
         <li>Microsoft Exchange Server</li>
     </ul>
