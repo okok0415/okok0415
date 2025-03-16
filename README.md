@@ -15,7 +15,7 @@
     </ul>
     <h3>CJ ONS</h3>
     <ul class="tech-list">
-        <li>JavaScript(jQuery)</li>
+        <li>JavaScript (jQuery)</li>
         <li>ASP.NET (Web Form)</li>
         <li>Microsoft Exchange Server</li>
     </ul>
